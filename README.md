@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+techdiff.io is my site, it's definitely _not_ a WIP.... 
+
 🤯
 
 <!--
