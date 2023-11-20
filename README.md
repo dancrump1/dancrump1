@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[techdiff.io](https://www.techdiff.io){:target="_blank"} is my site, it's definitely _not_ a WIP.... 
+[techdiff.io](https://www.techdiff.io) is my site, it's definitely _not_ a WIP.... 
 
 🤯
 
