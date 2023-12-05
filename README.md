@@ -6,6 +6,8 @@
 
 [My twitch searching site](http://twitch-clips.k9rria1zz3-rz83yxpn04d7.p.temp-site.link/)
 
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancrump1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dancrump1/dancrump1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
