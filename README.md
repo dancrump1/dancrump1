@@ -6,11 +6,12 @@
 
 [My twitch searching site](http://twitch-clips.k9rria1zz3-rz83yxpn04d7.p.temp-site.link/)
 
-#### Public Github stats
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancrump1&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ik spreek...](https://github-readme-stats.vercel.app/api/top-langs/?username=dancrump1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+### Try changing your dark-mode preference :D
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dancrump1&layout=donut-vertical">
+<a href='https://github.com/anuraghazra/github-readme-stats'>
+<img align='center' height='200'  src='https://github-readme-stats.vercel.app/api?username=dancrump1&theme=nightowl'/>
+  </a></picture>
 <!--
 **dancrump1/dancrump1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
