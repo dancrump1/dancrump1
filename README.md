@@ -10,7 +10,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dancrump1&layout=donut-vertical">
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img align='center' height='200' src='https://github-readme-stats.vercel.app/api?username=dancrump1'/>
+    <img align='center' height='200' src='https://github-readme-stats.vercel.app/api?username=dancrump1&theme=nightowl'/>
   </a>
 </picture>
 <!--
