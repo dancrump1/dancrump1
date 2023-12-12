@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-[techdiff.io](https://www.techdiff.io) is my site, it's definitely _not_ a WIP.... 
+  
+<a href='https://www.techdiff.io'>techdiff.io</a>&nbsp;is my site, it's definitely _not_ a WIP.... 
+
 
 🤯
 
 [My twitch searching site](http://twitch-clips.k9rria1zz3-rz83yxpn04d7.p.temp-site.link/)
 
 ### Try changing your dark-mode preference :D
-<a href='https://github.com/anuraghazra/github-readme-stats'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dancrump1&layout=donut-vertical">
     <img align='center' height='200' src='https://github-readme-stats.vercel.app/api?username=dancrump1&theme=nightowl'/>
   </picture>
-</a>
+
 <!--
 **dancrump1/dancrump1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
