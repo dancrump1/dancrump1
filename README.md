@@ -10,7 +10,7 @@
     <img align='center' height='200' src='https://github-readme-stats.vercel.app/api?username=dancrump1&theme=nightowl'/>
   </picture>
 
-[![CraftCMS Scaffold](https://github-readme-stats.vercel.app/api/pin/?username=drivebrandstudio&repo=Craft4-Scaffolding&theme=nightowl)]
+[CraftCMS Scaffold](https://github-readme-stats.vercel.app/api/pin/?username=drivebrandstudio&repo=Craft4-Scaffolding&theme=nightowl)
 
 
 <!--
